@@ -6,8 +6,9 @@ This repository contains my solutions to coding problems from [NeetCode.io](http
 
 ### ✅ **Completed Solutions**
 
-#### **Arrays** (2 solutions)
+#### **Arrays** (3 solutions)
 - `contains-duplicate.js` - Check if array contains duplicates
+- `contains-duplicate-alternative.js` - Alternative implementation with different method name
 - `two-sum.js` - Find two numbers that add up to target
 
 #### **Strings** (1 solution)
@@ -42,7 +43,7 @@ This repository serves as my personal collection of NeetCode solutions with:
 
 ## 📊 **Progress Tracking**
 
-- **Total Solutions**: 6
+- **Total Solutions**: 7
 - **Categories Covered**: 4/10
 - **Difficulty Levels**: Easy, Medium, Hard
 
