@@ -18,10 +18,11 @@ This repository contains my solutions to coding problems from [NeetCode.io](http
 #### **Heap** (1 solution)
 - `top-k-frequent-elements.js` - Find k most frequent elements
 
-#### **Two Pointers** (3 solutions)
+#### **Two Pointers** (4 solutions)
 - `three-sum.js` - Find all unique triplets that sum to zero
 - `two-sum-ii.js` - Two sum on sorted array using two pointers
 - `container-with-most-water.js` - Find container that holds the most water
+- `trapping-rain-water.js` - Calculate trapped rainwater between bars
 
 ### 📂 **Available Categories** (Ready for solutions)
 - `backtracking/` - Backtracking algorithms
@@ -45,7 +46,7 @@ This repository serves as my personal collection of NeetCode solutions with:
 
 ## 📊 **Progress Tracking**
 
-- **Total Solutions**: 9
+- **Total Solutions**: 10
 - **Categories Covered**: 4/10
 - **Difficulty Levels**: Easy, Medium, Hard
 
