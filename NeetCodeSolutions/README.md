@@ -16,8 +16,9 @@ This repository contains my solutions to coding problems from [NeetCode.io](http
 #### **Heap** (1 solution)
 - `top-k-frequent-elements.js` - Find k most frequent elements
 
-#### **Two Pointers** (1 solution)
+#### **Two Pointers** (2 solutions)
 - `three-sum.js` - Find all unique triplets that sum to zero
+- `two-sum-ii.js` - Two sum on sorted array using two pointers
 
 ### 📂 **Available Categories** (Ready for solutions)
 - `backtracking/` - Backtracking algorithms
@@ -41,7 +42,7 @@ This repository serves as my personal collection of NeetCode solutions with:
 
 ## 📊 **Progress Tracking**
 
-- **Total Solutions**: 5
+- **Total Solutions**: 6
 - **Categories Covered**: 4/10
 - **Difficulty Levels**: Easy, Medium, Hard
 
