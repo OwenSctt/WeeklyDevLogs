@@ -11,8 +11,9 @@ This repository contains my solutions to coding problems from [NeetCode.io](http
 - `contains-duplicate-alternative.js` - Alternative implementation with different method name
 - `two-sum.js` - Find two numbers that add up to target
 
-#### **Strings** (1 solution)
+#### **Strings** (2 solutions)
 - `valid-anagram.js` - Check if two strings are anagrams
+- `valid-palindrome.js` - Check if string is a palindrome after cleaning
 
 #### **Heap** (1 solution)
 - `top-k-frequent-elements.js` - Find k most frequent elements
@@ -43,7 +44,7 @@ This repository serves as my personal collection of NeetCode solutions with:
 
 ## 📊 **Progress Tracking**
 
-- **Total Solutions**: 7
+- **Total Solutions**: 8
 - **Categories Covered**: 4/10
 - **Difficulty Levels**: Easy, Medium, Hard
 
