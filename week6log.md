@@ -1,7 +1,7 @@
-# 🚀 Dev Log - Week of October 13, 2024
+# 🚀 Dev Log - Week of October 13, 2025
 
 ## 📅 **Week Overview**
-**Date Range:** October 13 - October 19, 2024  
+**Date Range:** October 13 - October 19, 2025  
 **Focus:** Advanced Algorithm Practice, Binary Search Mastery, and Repository Management
 
 ---
